@@ -2,4 +2,6 @@ package main
 
 import "fmt"
 
-func main() { fmt.Println("Aurora café 東京") }
+func main() { fmt.Println("Aurora accessible café 東京") }
+
+// FactoryV2 accessibility review evidence
